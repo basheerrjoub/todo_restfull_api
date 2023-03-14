@@ -6,5 +6,5 @@ first of all, you need to install, Django, Django Rest and CORS.
 Then you can simply run this project using the command:
 
 ```bash
-python mange.py runserver
+python manage.py runserver
 ```
